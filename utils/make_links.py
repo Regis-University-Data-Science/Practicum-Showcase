@@ -1,3 +1,11 @@
+"""
+I recommend you save your practicum students' project links in a Google or Excel sheet.
+Then copy-paste these into markdown generator: https://www.tablesgenerator.com/markdown_tables
+Then add these to the Readme.md file, and run this file from within it's folder to 
+shorten github, youtube, and other links.
+"""
+
+
 import re
 
 with open('../README.md', 'r') as f:
