@@ -1,9 +1,10 @@
 # Practicum-Showcase
+This is a collection of practicum projects from the [Regis University MSDS](https://www.regis.edu/academics/majors-and-programs/graduate/data-science-ms) practicum courses.
 
 
 ## Fall, 2020 Practicum II
 
-[Live Presentations]([Other](https://regis365.sharepoint.com/:v:/s/CCIS/DS/ETOCb2bBerVPueAq9uOJHncBZAxOXDsUE4F3r_pkA8E5rg?e=DJiZw8)) - Link to Zoom recording of five live presentations. 
+[Live Presentations](https://regis365.sharepoint.com/:v:/s/CCIS/DS/ETOCb2bBerVPueAq9uOJHncBZAxOXDsUE4F3r_pkA8E5rg?e=DJiZw8) - Link to Zoom recording of five live presentations. 
 
 
 
@@ -13,7 +14,7 @@
 | Kenyon Acton        | [GitHub](https://github.com/kenyonacton/MSDS_Practicum-1)                         | [Presentation](https://www.youtube.com/watch?v=yJ6JmhD8Ydc&feature=youtu.be) |                                                                               |                                                                                                         |
 | Dawn Bali           |                                                                         |                                                              |                                                                               |                                                                                                         |
 | Lauren Busalacchi   | [GitHub](https://github.com/LBusalacchi/msds696)                                  | [Presentation](https://www.youtube.com/watch?v=_dDJ1Zmqpeg)                  |                                                                               | [Other](https://public.tableau.com/profile/lauren.busalacchi#!/vizhome/WineClassifications/Overview?publish=yes) |
-| Sean Carey          | [Other](https://gitlab.com/SeanCarey/deploy-model-api)                           | [Other](https://gitpitch.com/SeanCarey/practicum-2-carey/master?)     | [Other](https://seancarey.gitlab.io/From-Notebook-to-Production-Project-Introduction/) |                                                                                                         |
+| Sean Carey          | [GitLab](https://gitlab.com/SeanCarey/deploy-model-api)                           | [Other](https://gitpitch.com/SeanCarey/practicum-2-carey/master?)     | [Other](https://seancarey.gitlab.io/From-Notebook-to-Production-Project-Introduction/) |                                                                                                         |
 | Suresh Kuman Dontha | [GitHub](https://github.com/sureshdontha/Regis_DS696Practicum_II)                 | [Presentation](https://www.youtube.com/watch?v=x1PVc6AO4Rg)                  |                                                                               |                                                                                                         |
 | Parker Hall         | [GitHub](https://github.com/NerdParker/COVID-19-Predictions-and-Financial-Crisis) | [Presentation](https://www.youtube.com/watch?v=C3qMzDXyIaU&feature=youtu.be) |                                                                               |                                                                                                         |
 | Sara Hayden         | [GitHub](https://github.com/sbhayden/RunningwithData)                             | [Presentation](https://www.youtube.com/watch?v=mauUD0jT6oo&feature=youtu.be) | [Other](https://bethhayden1996.wixsite.com/website)                                    |                                                                                                         |
@@ -57,7 +58,7 @@
 
 
 ## Fall, 2018 Practicum I (in-person, presentations were live)
-        | Student                  | Github                                                                 |
+| Student                  | Github                                                                 |
 |--------------------------|------------------------------------------------------------------------|
 | Evan Gibson              | [GitHub](https://github.com/evangibson/Pneumonia_Detection)                      |
 | Jeanette Henry           | [GitHub](https://github.com/jeaner/PracticumPhysics)                             |
@@ -66,7 +67,7 @@
 | Farhad Navid             | [GitHub](https://github.com/Farhad-n/Clasification)                              |
 | Joe Severino             | [GitHub](https://github.com/josephseverino/Stock_classifier)                     |
 | Abhishek Tirumalaraju    | [GitHub](https://github.com/abhi19071993/gitpracticum1)                          |
-| Jonathan Tomasello       | [GitHub](https://github.com/chimney-wood/msds692)                                |                                    |
+| Jonathan Tomasello       | [GitHub](https://github.com/chimney-wood/msds692)                                |
 
 ## Summer, 2018 Practicum I (online)
 | Student               | GitHub                                                                                               | Blog                                                                                               | Tableau | Presentation                                                 | Data                                                                       | Other                                                                                      | Other (2)                                      |
