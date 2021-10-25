@@ -1,6 +1,35 @@
 # Practicum-Showcase
 This is a collection of practicum projects from the [Regis University MSDS](https://www.regis.edu/academics/majors-and-programs/graduate/data-science-ms) practicum courses.
 
+## Summer 2021 Practicum I
+
+|        Student        |                                            GitHub                                            |                 Presentation                | Blog | Other |
+|:---------------------:|:--------------------------------------------------------------------------------------------:|:-------------------------------------------:|:----:|:-----:|
+| Rafael Pacheco        | [GitHub](https://github.com/rafpach16/Data-Science-Practicum-I)                                        | [Presentation](https://youtu.be/9GNjbM_jj5Y)                |      |       |
+| Monish Varghese Joshy | [GitHub](https://github.com/monishvarghesejoshy/Data-Science-Practicum-Project-House-Price-Prediction) | [Presentation](https://www.youtube.com/watch?v=95KzJCpk-T8) |      |       |
+| Vidhya Priya Mathan   | [GitHub](https://github.com/vpriyamathan/Data-Science-Practicum---I)                                   | [Presentation](https://youtu.be/Hu9NiCz4Xcg)                |      |       |
+| Kaytlin Moyer         | [GitHub](https://github.com/kaytiemoyer/Data-Science-Practicum-I)                                      | [Presentation](https://youtu.be/--P2QHxcdKU)                |      |       |
+| Laurie Cagney         | [GitHub](https://github.com/lcagney/MSDS_Practicum)                                                    | [Presentation](https://youtu.be/7F5ooAb74xI)                |      |       |
+| Savannah Gilkes       | [GitHub](https://github.com/sdgilkesMSDS/Data_Science_Practicum_l)                                     | [Presentation](https://youtu.be/7Ka_hrlTKKc)                |      |       |
+| Erin Tansley          | [GitHub](https://github.com/arcticvalence/Practicum1)                                                  | [Presentation](https://youtu.be/IbCmAMVHBzQ)                |      |       |
+| Andrea Fernandez      | [GitHub](https://github.com/andreakfernandez10/Data-Science-Practicum-Project-AF.git)                  | [Presentation](https://youtu.be/I76l5P0OY4w)                |      |       |
+| Sarah Black           | [GitHub](https://github.com/sarblack/GHGanalysis)                                                      | [Presentation](https://youtu.be/p3Fku95bZsM)                |      |       |
+| Frederick Pletz       | [GitHub](https://github.com/fredyfredburger/MagicPowerCurve)                                           | [Presentation](https://youtu.be/-YGfAKSknOQ)                |      |       |
+| Evan Phillippi        | [GitHub](https://github.com/evphil1988/Practicum-Project)                                              | [Presentation](https://youtu.be/MH0YtB4nAdg)                |      |       |
+
+## Spring 2021 Practicum II
+
+|                       Student                      |                                           GitHub                                           |                  Presentation                  |              Blog              |                                                               Other                                                              |
+|:--------------------------------------------------:|:------------------------------------------------------------------------------------------:|:----------------------------------------------:|:------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
+|                   Albrechta, Joseph                | [GitHub](https://github.com/jalbrRegis/Anomaly_Detection_for_Data_Centers_MSDS696)                   |                                                |                                |                                                                                                                                  |
+| Bemiss, Kimberly                                   | [GitHub](https://github.com/kcbemiss/RegisU_MSDS696_ClusteringAndLinearRegressionWithRealEstateData) |                                                |                                | [Other](https://public.tableau.com/profile/kimberly.bemiss#!/vizhome/ClusteringandLinearRegressionwithRealEstateData/AssessorsData_Story) |
+| Butler, Kristina                                   | [GitHub]([GitHub](https://github.com/kcbutler456/fraud-detection))                                             |                                                |                                |                                                                                                                                  |
+| Clark, Matthew                              |                                                                                            |                                                |                                |                                                                                                                                  |
+| Gruman, Tiffany                             |                                                                                            | [GitHub]([GitHub](https://github.com/kcbutler456/fraud-detection)) |                                |                                                                                                                                  |
+| Reimer, Benjamin                            | [GitHub](https://github.com/reimerb13/Education-Project-Practicum)                                   |                                                |                                |                                                                                                                                  |
+| Schirkofsky, Scott                          | [GitHub](https://github.com/schirko)                                                                 |                                                | [Other](https://sschirko.edublogs.org/) |                                                                                                                                  |
+| Shrode, Taylor                              | [GitHub](https://github.com/tshrode37/Florida-Manatee-Mortalities)                                   |                                                |                                |                                                                                                                                  |
+| Summers, Blake                              | [GitHub](https://github.com/blakewinters/ds_practicum_reddit)                                        |                                                |                                |                                                                                                                                  |
 
 ## Spring 2021 Practicum I
 
