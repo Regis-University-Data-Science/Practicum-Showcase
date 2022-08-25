@@ -8,10 +8,7 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 | Joseph Dixon    | [GitHub](https://github.com/joseph-dixon/MSDS692)                                        | [Presentation](https://www.youtube.com/watch?v=ESoWOwMtH_k)                          |      |       |
 | Austin Kingsley | [GitHub](https://github.com/akingsley319/MLB_xBA_Prediction)                             | [Presentation](https://youtu.be/4HqFMFF2XE8)                                         |      |       |
 | Olumide Aluko   | [GitHub](https://github.com/olumidelk/Aluko_MSDS692-Data-Science-Practicum-Project-.git) | [Presentation](https://www.youtube.com/watch?v=1we8smMAKlA&t=6s&ab_channel=MakAluko) |      |       |
-| Quinn Maloney   | [GitHub](https://github.com/Quinn-Maloney/Practicum-Project)                             | [Presentation](https://youtu.be/e4X-9tLzVio)                                         |      |       |
-|                 |                                                                                |                                                                      |      |       |
-|                 |                                                                                |                                                                      |      |       |
-                                                                   |                                            
+| Quinn Maloney   | [GitHub](https://github.com/Quinn-Maloney/Practicum-Project)                             | [Presentation](https://youtu.be/e4X-9tLzVio)                                         |
 
 ## 22M8W1 MSDS*692
 
@@ -51,16 +48,7 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 | Jose Ixcol          | [GitHub](https://github.com/Jixcol/Practicum-II-Used-Car-Analysis)                                                                     | [Presentation](https://youtu.be/jkxcbIZ7_NM)                |      |                                     |
 | Kenneth Constable   | [GitHub](https://github.com/kconstable/crypto-ensemble-model-predictions)                                                              |                                             |      |                                     |
 | James Brown         | [GitHub](https://github.com/jbrown544/interlingual-topic-modeling)                                                                     |                                             |      |                                     |
-| Stephen Dominguez   | [GitHub](https://github.com/Wyleec980/sparseVolumetricSegmentation)                                                                    | [Presentation](https://youtu.be/bCLRZS5H2Bk)                |      |                                     |
-|                     |                                                                                                                              |                                             |      |                                     |
-|                     |                                                                                                                              |                                             |      |                                     |
-|                     |                                                                                                                              |                                             |      |                                     |
-|                     |                                                                                                                              |                                             |      |                                     |
-|                     |                                                                                                                              |                                             |      |                                     |
-|                     |                                                                                                                              |                                             |      |                                     |
-|                     |                                                                                                                              |                                             |      |                                     |
-|                     |                                                                                                                              |                                             |      |                                     |
-|                     |                                                                                                                              |                                             |      |                                     |
+| Stephen Dominguez   | [GitHub](https://github.com/Wyleec980/sparseVolumetricSegmentation)                                                                    | [Presentation](https://youtu.be/bCLRZS5H2Bk)                |
 
 ## 22F8W1 MSDS*692
 
