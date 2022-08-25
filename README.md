@@ -1,6 +1,120 @@
 # Practicum-Showcase
 This is a collection of practicum projects from the [Regis University MSDS](https://www.regis.edu/academics/majors-and-programs/graduate/data-science-ms) practicum courses.
 
+## 22M8W2 MSDS 696
+|     Student     |                                     GitHub                                     |                             Presentation                             | Blog | Other |
+|:---------------:|:------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|:----:|:-----:|
+| Lydia Swatek    | https://github.com/lswatek/Data-Science-Practicum-                             |                                                                      |      |       |
+| Joseph Dixon    | https://github.com/joseph-dixon/MSDS692                                        | https://www.youtube.com/watch?v=ESoWOwMtH_k                          |      |       |
+| Austin Kingsley | https://github.com/akingsley319/MLB_xBA_Prediction                             | https://youtu.be/4HqFMFF2XE8                                         |      |       |
+| Olumide Aluko   | https://github.com/olumidelk/Aluko_MSDS692-Data-Science-Practicum-Project-.git | https://www.youtube.com/watch?v=1we8smMAKlA&t=6s&ab_channel=MakAluko |      |       |
+| Quinn Maloney   | https://github.com/Quinn-Maloney/Practicum-Project                             | https://youtu.be/e4X-9tLzVio                                         |      |       |
+|                 |                                                                                |                                                                      |      |       |
+|                 |                                                                                |                                                                      |      |       |
+|                 |                                                                                |                                                                      |      |       |
+|                 |                                                                                |                                                                      |      |       |
+|                 |                                                                                |                                                                      |      |       |
+|                 |                                                                                |                                                                      |      |       |
+|                 |                                                                                |                                                                      |      |       |
+|                 |                                                                                |                                                                      |      |       |
+|                 |                                                                                |                                                                      |      |       |
+|                 |                                                                                |                                                                      |      |       |
+|                 |                                                                                |                                                                      |      |       |
+|                 |                                                                                |                                                                      |      |       |
+|                 |                                                                                |                                                                      |      |       |
+
+## 22M8W1 MSDS*692
+
+
+## 22S8W2 MSDS*696
+|    Student    |                GitHub                |             Presentation            | Blog | Other |
+|:-------------:|:------------------------------------:|:-----------------------------------:|:----:|:-----:|
+| Biplob Gauli  | https://github.com/biplobgauli/696   |                                     |      |       |
+| Ashley Mimaki | amimaki/MSDS696-Project (github.com) | MSDS696 Practicum Project - YouTube |      |       |
+| Robert Allen  |                                      | https://youtu.be/mxEfkbIpXJE        |      |       |
+|               |                                      |                                     |      |       |
+|               |                                      |                                     |      |       |
+|               |                                      |                                     |      |       |
+|               |                                      |                                     |      |       |
+|               |                                      |                                     |      |       |
+|               |                                      |                                     |      |       |
+|               |                                      |                                     |      |       |
+|               |                                      |                                     |      |       |
+|               |                                      |                                     |      |       |
+|               |                                      |                                     |      |       |
+|               |                                      |                                     |      |       |
+|               |                                      |                                     |      |       |
+|               |                                      |                                     |      |       |
+|               |                                      |                                     |      |       |
+|               |                                      |                                     |      |       |
+
+## 22S8W1 MSDS*692
+|          Student          | GitHub |                 Presentation                | Blog | Other |
+|:-------------------------:|:------:|:-------------------------------------------:|:----:|:-----:|
+| Dilyor Mikhidinov         |        |                                             |      |       |
+| Hareesh Vijayanandan Nair |        | https://youtu.be/Q0LX7JdjD_8                |      |       |
+| Benjamin Jenkins          |        |                                             |      |       |
+| Christine Tran            |        |                                             |      |       |
+| Ashley Mimaki             |        |                                             |      |       |
+| Laurel Gaeddert           |        |                                             |      |       |
+| Timothy Miglin            |        | https://www.youtube.com/watch?v=0t5optKjBAE |      |       |
+| Abhishek Gupta            |        |                                             |      |       |
+| Christopher Green         |        | https://youtu.be/ijH-qF8xlrg                |      |       |
+| John Halter               |        |                                             |      |       |
+| Roger Humecky             |        |                                             |      |       |
+|                           |        |                                             |      |       |
+|                           |        |                                             |      |       |
+|                           |        |                                             |      |       |
+|                           |        |                                             |      |       |
+|                           |        |                                             |      |       |
+|                           |        |                                             |      |       |
+|                           |        |                                             |      |       |
+
+## 22F8W2 MSDS*696
+|       Student       |                                                            GitHub                                                            |                 Presentation                | Blog |                Other                |
+|:-------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------:|:----:|:-----------------------------------:|
+| Thomas Sheffer      |                                                                                                                              | https://youtu.be/-cghOmk0jVY                |      |                                     |
+| John Mayers         | sunnysidedenver/regis_msds_practicum2: Analyzing and Predicting Wildfires in Colorado's US Forests (github.com)              |                                             |      |                                     |
+| Andrew Lujan        | https://github.com/Drewsky33/MSDS-696--Practicum-2                                                                           | https://youtu.be/To44hyfYxpA                |      |                                     |
+| Eric Maddox         | https://github.com/navymaddox/DeepLearningWarships/blob/3958837e83731ec141dde2c63c37f119730c8e80/ShipClassDeepLearning.ipynb | https://youtu.be/e9e04kTZ0Bc                |      |                                     |
+| Christopher Pranger | https://github.com/chpr1410/MSDS696-Practicum/#readme                                                                        | https://www.youtube.com/watch?v=WFbcVmjmMbs |      | http://chpr1410.pythonanywhere.com/ |
+| Jose Ixcol          | https://github.com/Jixcol/Practicum-II-Used-Car-Analysis                                                                     | https://youtu.be/jkxcbIZ7_NM                |      |                                     |
+| Kenneth Constable   | https://github.com/kconstable/crypto-ensemble-model-predictions                                                              |                                             |      |                                     |
+| James Brown         | https://github.com/jbrown544/interlingual-topic-modeling                                                                     |                                             |      |                                     |
+| Stephen Dominguez   | https://github.com/Wyleec980/sparseVolumetricSegmentation                                                                    | https://youtu.be/bCLRZS5H2Bk                |      |                                     |
+|                     |                                                                                                                              |                                             |      |                                     |
+|                     |                                                                                                                              |                                             |      |                                     |
+|                     |                                                                                                                              |                                             |      |                                     |
+|                     |                                                                                                                              |                                             |      |                                     |
+|                     |                                                                                                                              |                                             |      |                                     |
+|                     |                                                                                                                              |                                             |      |                                     |
+|                     |                                                                                                                              |                                             |      |                                     |
+|                     |                                                                                                                              |                                             |      |                                     |
+|                     |                                                                                                                              |                                             |      |                                     |
+
+## 22F8W1 MSDS*692
+
+|       Student       |                                      GitHub                                      |                          Presentation                         | Blog |                                                        Other                                                       |
+|:-------------------:|:--------------------------------------------------------------------------------:|:-------------------------------------------------------------:|:----:|:------------------------------------------------------------------------------------------------------------------:|
+| Thomas Sheffer      |                                                                                  |                                                               |      |                                                                                                                    |
+| Stephen Dominguez   |                                                                                  |                                                               |      |                                                                                                                    |
+| Kevin Richards      |                                                                                  |                                                               |      |                                                                                                                    |
+| Nicolas Picazo      |                                                                                  | https://youtu.be/qEtJXm3WlVY                                  |      |                                                                                                                    |
+| Andrew Lujan        |                                                                                  |                                                               |      |                                                                                                                    |
+| Biplob Gauli        |                                                                                  |                                                               |      | https://worldclass.regis.edu/d2l/common/dialogs/quickLink/quickLink.d2l?ou=273427&type=content&rcode=Regis-2090416 |
+| Morgan Childs       |                                                                                  |                                                               |      |                                                                                                                    |
+| Jose Ixcol          |                                                                                  | https://youtu.be/HjzfuJiWm6w                                  |      |                                                                                                                    |
+| Jennifer Ayvaz      |                                                                                  |                                                               |      | https://drive.google.com/file/d/1ICQkFSIfg9l3PS1jBahnDd4M3tH56b39/view?usp=sharing                                 |
+| Lucas Atwood        |                                                                                  |                                                               |      |                                                                                                                    |
+| Eric Maddox         | https://github.com/navymaddox/Ship_Web_Scraping/blob/main/WarshipWebScrape.ipynb | https://www.youtube.com/watch?v=goVbgg1mx_k&ab_channel=ChrisP |      |                                                                                                                    |
+| James Brown         |                                                                                  |  https://www.youtube.com/watch?v=mivR9_TtcZI                  |      |                                                                                                                    |
+| Christopher Pranger | https://github.com/chpr1410/MSDS692_Practicum#readme                             |                                                               |      |                                                                                                                    |
+| Kenneth Constable   | https://github.com/kconstable/market_predictions                                 | https://www.youtube.com/watch?v=eaLPJkOf10Y                   |      |                                                                                                                    |
+| Drew Brinda         |                                                                                  | https://www.youtube.com/watch?v=5xBQwTlmLr8                   |      |                                                                                                                    |
+| John Mayers         |                                                                                  |                                                               |      |                                                                                                                    |
+| Andrew Cooper       |                                                                                  |                                                               |      |                                                                                                                    |
+|                     |                                                                                  | https://github.com/acooperminer15/OilGasWellPrediction        |      |                                                                                                                    |
+
 ## 21M8W2 MSDS*696
 |        Student        |                                                        GitHub                                                        |                 Presentation                |
 |:---------------------:|:--------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------:|
