@@ -1,6 +1,18 @@
 # Practicum-Showcase
 This is a collection of practicum projects from the [Regis University MSDS](https://www.regis.edu/academics/majors-and-programs/graduate/data-science-ms) practicum courses.
 
+## 21M8W2 MSDS*696
+|        Student        |                                                        GitHub                                                        |                 Presentation                |
+|:---------------------:|:--------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------:|
+| Rafael Pacheco        | https://github.com/rafpach16/Data-Science-Practicum-2                                                                | https://youtu.be/jvUUpZsnzmk                |
+| Sarah Black           |                                                                                                                      | https://youtu.be/5D6LdXpuvJc                |
+| Laurie Cagney         | https://github.com/lcagney/MSDS-Practicum-2                                                                          | https://youtu.be/Q3zYRNRokrc                |
+| Andrea Fernandez      | https://github.com/andreakfernandez10/Data-Science-Practicum-II-Project.git                                          | https://youtu.be/AK7l8V2MBu4                |
+| Vidhya Priya Mathan   | https://github.com/vpriyamathan/MSDS696_DataScience_Practicum-II                                                     | https://youtu.be/tbUFeAVYIjg                |
+| Kaytlin Moyer         | https://github.com/kaytiemoyer/Comparing-the-Species-Report-data-of-National-Parks-using-Visual-Analysis-with-Python | https://youtu.be/L_6bTw47yEQ                |
+| Monish Varghese Joshy | https://github.com/monishvarghesejoshy/Loan-Eligibility-Prediction-Using-Machine-Learning                            |                                             |
+| Erin Tansley          | https://github.com/arcticvalence/Practicum2                                                                          | https://www.youtube.com/watch?v=nHWN3O6A0Sw |
+
 ## Summer 2021 Practicum I
 
 |        Student        |                                            GitHub                                            |                 Presentation                | Blog | Other |
