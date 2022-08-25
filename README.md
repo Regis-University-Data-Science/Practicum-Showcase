@@ -4,11 +4,11 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 ## 22M8W2 MSDS 696
 |     Student     |                                     GitHub                                     |                             Presentation                             | Blog | Other |
 |:---------------:|:------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|:----:|:-----:|
-| Lydia Swatek    | https://github.com/lswatek/Data-Science-Practicum-                             |                                                                      |      |       |
-| Joseph Dixon    | https://github.com/joseph-dixon/MSDS692                                        | https://www.youtube.com/watch?v=ESoWOwMtH_k                          |      |       |
-| Austin Kingsley | https://github.com/akingsley319/MLB_xBA_Prediction                             | https://youtu.be/4HqFMFF2XE8                                         |      |       |
-| Olumide Aluko   | https://github.com/olumidelk/Aluko_MSDS692-Data-Science-Practicum-Project-.git | https://www.youtube.com/watch?v=1we8smMAKlA&t=6s&ab_channel=MakAluko |      |       |
-| Quinn Maloney   | https://github.com/Quinn-Maloney/Practicum-Project                             | https://youtu.be/e4X-9tLzVio                                         |      |       |
+| Lydia Swatek    | [GitHub](https://github.com/lswatek/Data-Science-Practicum-)                             |                                                                      |      |       |
+| Joseph Dixon    | [GitHub](https://github.com/joseph-dixon/MSDS692)                                        | [Presentation](https://www.youtube.com/watch?v=ESoWOwMtH_k)                          |      |       |
+| Austin Kingsley | [GitHub](https://github.com/akingsley319/MLB_xBA_Prediction)                             | [Presentation](https://youtu.be/4HqFMFF2XE8)                                         |      |       |
+| Olumide Aluko   | [GitHub](https://github.com/olumidelk/Aluko_MSDS692-Data-Science-Practicum-Project-.git) | [Presentation](https://www.youtube.com/watch?v=1we8smMAKlA&t=6s&ab_channel=MakAluko) |      |       |
+| Quinn Maloney   | [GitHub](https://github.com/Quinn-Maloney/Practicum-Project)                             | [Presentation](https://youtu.be/e4X-9tLzVio)                                         |      |       |
 |                 |                                                                                |                                                                      |      |       |
 |                 |                                                                                |                                                                      |      |       |
 |                 |                                                                                |                                                                      |      |       |
@@ -29,9 +29,9 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 ## 22S8W2 MSDS*696
 |    Student    |                GitHub                |             Presentation            | Blog | Other |
 |:-------------:|:------------------------------------:|:-----------------------------------:|:----:|:-----:|
-| Biplob Gauli  | https://github.com/biplobgauli/696   |                                     |      |       |
+| Biplob Gauli  | [GitHub](https://github.com/biplobgauli/696)   |                                     |      |       |
 | Ashley Mimaki | amimaki/MSDS696-Project (github.com) | MSDS696 Practicum Project - YouTube |      |       |
-| Robert Allen  |                                      | https://youtu.be/mxEfkbIpXJE        |      |       |
+| Robert Allen  |                                      | [Presentation](https://youtu.be/mxEfkbIpXJE)        |      |       |
 |               |                                      |                                     |      |       |
 |               |                                      |                                     |      |       |
 |               |                                      |                                     |      |       |
@@ -52,14 +52,14 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 |          Student          | GitHub |                 Presentation                | Blog | Other |
 |:-------------------------:|:------:|:-------------------------------------------:|:----:|:-----:|
 | Dilyor Mikhidinov         |        |                                             |      |       |
-| Hareesh Vijayanandan Nair |        | https://youtu.be/Q0LX7JdjD_8                |      |       |
+| Hareesh Vijayanandan Nair |        | [Presentation](https://youtu.be/Q0LX7JdjD_8)                |      |       |
 | Benjamin Jenkins          |        |                                             |      |       |
 | Christine Tran            |        |                                             |      |       |
 | Ashley Mimaki             |        |                                             |      |       |
 | Laurel Gaeddert           |        |                                             |      |       |
-| Timothy Miglin            |        | https://www.youtube.com/watch?v=0t5optKjBAE |      |       |
+| Timothy Miglin            |        | [Presentation](https://www.youtube.com/watch?v=0t5optKjBAE) |      |       |
 | Abhishek Gupta            |        |                                             |      |       |
-| Christopher Green         |        | https://youtu.be/ijH-qF8xlrg                |      |       |
+| Christopher Green         |        | [Presentation](https://youtu.be/ijH-qF8xlrg)                |      |       |
 | John Halter               |        |                                             |      |       |
 | Roger Humecky             |        |                                             |      |       |
 |                           |        |                                             |      |       |
@@ -73,15 +73,15 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 ## 22F8W2 MSDS*696
 |       Student       |                                                            GitHub                                                            |                 Presentation                | Blog |                Other                |
 |:-------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------:|:----:|:-----------------------------------:|
-| Thomas Sheffer      |                                                                                                                              | https://youtu.be/-cghOmk0jVY                |      |                                     |
+| Thomas Sheffer      |                                                                                                                              | [Presentation](https://youtu.be/-cghOmk0jVY)                |      |                                     |
 | John Mayers         | sunnysidedenver/regis_msds_practicum2: Analyzing and Predicting Wildfires in Colorado's US Forests (github.com)              |                                             |      |                                     |
-| Andrew Lujan        | https://github.com/Drewsky33/MSDS-696--Practicum-2                                                                           | https://youtu.be/To44hyfYxpA                |      |                                     |
-| Eric Maddox         | https://github.com/navymaddox/DeepLearningWarships/blob/3958837e83731ec141dde2c63c37f119730c8e80/ShipClassDeepLearning.ipynb | https://youtu.be/e9e04kTZ0Bc                |      |                                     |
-| Christopher Pranger | https://github.com/chpr1410/MSDS696-Practicum/#readme                                                                        | https://www.youtube.com/watch?v=WFbcVmjmMbs |      | http://chpr1410.pythonanywhere.com/ |
-| Jose Ixcol          | https://github.com/Jixcol/Practicum-II-Used-Car-Analysis                                                                     | https://youtu.be/jkxcbIZ7_NM                |      |                                     |
-| Kenneth Constable   | https://github.com/kconstable/crypto-ensemble-model-predictions                                                              |                                             |      |                                     |
-| James Brown         | https://github.com/jbrown544/interlingual-topic-modeling                                                                     |                                             |      |                                     |
-| Stephen Dominguez   | https://github.com/Wyleec980/sparseVolumetricSegmentation                                                                    | https://youtu.be/bCLRZS5H2Bk                |      |                                     |
+| Andrew Lujan        | [GitHub](https://github.com/Drewsky33/MSDS-696--Practicum-2)                                                                           | [Presentation](https://youtu.be/To44hyfYxpA)                |      |                                     |
+| Eric Maddox         | [GitHub](https://github.com/navymaddox/DeepLearningWarships/blob/3958837e83731ec141dde2c63c37f119730c8e80/ShipClassDeepLearning.ipynb) | [Presentation](https://youtu.be/e9e04kTZ0Bc)                |      |                                     |
+| Christopher Pranger | [GitHub](https://github.com/chpr1410/MSDS696-Practicum/#readme)                                                                        | [Presentation](https://www.youtube.com/watch?v=WFbcVmjmMbs) |      | [Other](http://chpr1410.pythonanywhere.com/) |
+| Jose Ixcol          | [GitHub](https://github.com/Jixcol/Practicum-II-Used-Car-Analysis)                                                                     | [Presentation](https://youtu.be/jkxcbIZ7_NM)                |      |                                     |
+| Kenneth Constable   | [GitHub](https://github.com/kconstable/crypto-ensemble-model-predictions)                                                              |                                             |      |                                     |
+| James Brown         | [GitHub](https://github.com/jbrown544/interlingual-topic-modeling)                                                                     |                                             |      |                                     |
+| Stephen Dominguez   | [GitHub](https://github.com/Wyleec980/sparseVolumetricSegmentation)                                                                    | [Presentation](https://youtu.be/bCLRZS5H2Bk)                |      |                                     |
 |                     |                                                                                                                              |                                             |      |                                     |
 |                     |                                                                                                                              |                                             |      |                                     |
 |                     |                                                                                                                              |                                             |      |                                     |
@@ -99,33 +99,33 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 | Thomas Sheffer      |                                                                                  |                                                               |      |                                                                                                                    |
 | Stephen Dominguez   |                                                                                  |                                                               |      |                                                                                                                    |
 | Kevin Richards      |                                                                                  |                                                               |      |                                                                                                                    |
-| Nicolas Picazo      |                                                                                  | https://youtu.be/qEtJXm3WlVY                                  |      |                                                                                                                    |
+| Nicolas Picazo      |                                                                                  | [Presentation](https://youtu.be/qEtJXm3WlVY)                                  |      |                                                                                                                    |
 | Andrew Lujan        |                                                                                  |                                                               |      |                                                                                                                    |
-| Biplob Gauli        |                                                                                  |                                                               |      | https://worldclass.regis.edu/d2l/common/dialogs/quickLink/quickLink.d2l?ou=273427&type=content&rcode=Regis-2090416 |
+| Biplob Gauli        |                                                                                  |                                                               |      | [Other](https://worldclass.regis.edu/d2l/common/dialogs/quickLink/quickLink.d2l?ou=273427&type=content&rcode=Regis-2090416) |
 | Morgan Childs       |                                                                                  |                                                               |      |                                                                                                                    |
-| Jose Ixcol          |                                                                                  | https://youtu.be/HjzfuJiWm6w                                  |      |                                                                                                                    |
-| Jennifer Ayvaz      |                                                                                  |                                                               |      | https://drive.google.com/file/d/1ICQkFSIfg9l3PS1jBahnDd4M3tH56b39/view?usp=sharing                                 |
+| Jose Ixcol          |                                                                                  | [Presentation](https://youtu.be/HjzfuJiWm6w)                                  |      |                                                                                                                    |
+| Jennifer Ayvaz      |                                                                                  |                                                               |      | [Other](https://drive.google.com/file/d/1ICQkFSIfg9l3PS1jBahnDd4M3tH56b39/view?usp=sharing)                                 |
 | Lucas Atwood        |                                                                                  |                                                               |      |                                                                                                                    |
-| Eric Maddox         | https://github.com/navymaddox/Ship_Web_Scraping/blob/main/WarshipWebScrape.ipynb | https://www.youtube.com/watch?v=goVbgg1mx_k&ab_channel=ChrisP |      |                                                                                                                    |
-| James Brown         |                                                                                  |  https://www.youtube.com/watch?v=mivR9_TtcZI                  |      |                                                                                                                    |
-| Christopher Pranger | https://github.com/chpr1410/MSDS692_Practicum#readme                             |                                                               |      |                                                                                                                    |
-| Kenneth Constable   | https://github.com/kconstable/market_predictions                                 | https://www.youtube.com/watch?v=eaLPJkOf10Y                   |      |                                                                                                                    |
-| Drew Brinda         |                                                                                  | https://www.youtube.com/watch?v=5xBQwTlmLr8                   |      |                                                                                                                    |
+| Eric Maddox         | [GitHub](https://github.com/navymaddox/Ship_Web_Scraping/blob/main/WarshipWebScrape.ipynb) | [Presentation](https://www.youtube.com/watch?v=goVbgg1mx_k&ab_channel=ChrisP) |      |                                                                                                                    |
+| James Brown         |                                                                                  |  [Presentation](https://www.youtube.com/watch?v=mivR9_TtcZI)                  |      |                                                                                                                    |
+| Christopher Pranger | [GitHub](https://github.com/chpr1410/MSDS692_Practicum#readme)                             |                                                               |      |                                                                                                                    |
+| Kenneth Constable   | [GitHub](https://github.com/kconstable/market_predictions)                                 | [Presentation](https://www.youtube.com/watch?v=eaLPJkOf10Y)                   |      |                                                                                                                    |
+| Drew Brinda         |                                                                                  | [Presentation](https://www.youtube.com/watch?v=5xBQwTlmLr8)                   |      |                                                                                                                    |
 | John Mayers         |                                                                                  |                                                               |      |                                                                                                                    |
 | Andrew Cooper       |                                                                                  |                                                               |      |                                                                                                                    |
-|                     |                                                                                  | https://github.com/acooperminer15/OilGasWellPrediction        |      |                                                                                                                    |
+|                     |                                                                                  | [GitHub](https://github.com/acooperminer15/OilGasWellPrediction)        |      |                                                                                                                    |
 
 ## 21M8W2 MSDS*696
 |        Student        |                                                        GitHub                                                        |                 Presentation                |
 |:---------------------:|:--------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------:|
-| Rafael Pacheco        | https://github.com/rafpach16/Data-Science-Practicum-2                                                                | https://youtu.be/jvUUpZsnzmk                |
-| Sarah Black           |                                                                                                                      | https://youtu.be/5D6LdXpuvJc                |
-| Laurie Cagney         | https://github.com/lcagney/MSDS-Practicum-2                                                                          | https://youtu.be/Q3zYRNRokrc                |
-| Andrea Fernandez      | https://github.com/andreakfernandez10/Data-Science-Practicum-II-Project.git                                          | https://youtu.be/AK7l8V2MBu4                |
-| Vidhya Priya Mathan   | https://github.com/vpriyamathan/MSDS696_DataScience_Practicum-II                                                     | https://youtu.be/tbUFeAVYIjg                |
-| Kaytlin Moyer         | https://github.com/kaytiemoyer/Comparing-the-Species-Report-data-of-National-Parks-using-Visual-Analysis-with-Python | https://youtu.be/L_6bTw47yEQ                |
-| Monish Varghese Joshy | https://github.com/monishvarghesejoshy/Loan-Eligibility-Prediction-Using-Machine-Learning                            |                                             |
-| Erin Tansley          | https://github.com/arcticvalence/Practicum2                                                                          | https://www.youtube.com/watch?v=nHWN3O6A0Sw |
+| Rafael Pacheco        | [GitHub](https://github.com/rafpach16/Data-Science-Practicum-2)                                                                | [Presentation](https://youtu.be/jvUUpZsnzmk)                |
+| Sarah Black           |                                                                                                                      | [Presentation](https://youtu.be/5D6LdXpuvJc)                |
+| Laurie Cagney         | [GitHub](https://github.com/lcagney/MSDS-Practicum-2)                                                                          | [Presentation](https://youtu.be/Q3zYRNRokrc)                |
+| Andrea Fernandez      | [GitHub](https://github.com/andreakfernandez10/Data-Science-Practicum-II-Project.git)                                          | [Presentation](https://youtu.be/AK7l8V2MBu4)                |
+| Vidhya Priya Mathan   | [GitHub](https://github.com/vpriyamathan/MSDS696_DataScience_Practicum-II)                                                     | [Presentation](https://youtu.be/tbUFeAVYIjg)                |
+| Kaytlin Moyer         | [GitHub](https://github.com/kaytiemoyer/Comparing-the-Species-Report-data-of-National-Parks-using-Visual-Analysis-with-Python) | [Presentation](https://youtu.be/L_6bTw47yEQ)                |
+| Monish Varghese Joshy | [GitHub](https://github.com/monishvarghesejoshy/Loan-Eligibility-Prediction-Using-Machine-Learning)                            |                                             |
+| Erin Tansley          | [GitHub](https://github.com/arcticvalence/Practicum2)                                                                          | [Presentation](https://www.youtube.com/watch?v=nHWN3O6A0Sw) |
 
 ## Summer 2021 Practicum I
 
