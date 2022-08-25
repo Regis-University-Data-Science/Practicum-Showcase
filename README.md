@@ -11,17 +11,7 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 | Quinn Maloney   | [GitHub](https://github.com/Quinn-Maloney/Practicum-Project)                             | [Presentation](https://youtu.be/e4X-9tLzVio)                                         |      |       |
 |                 |                                                                                |                                                                      |      |       |
 |                 |                                                                                |                                                                      |      |       |
-|                 |                                                                                |                                                                      |      |       |
-|                 |                                                                                |                                                                      |      |       |
-|                 |                                                                                |                                                                      |      |       |
-|                 |                                                                                |                                                                      |      |       |
-|                 |                                                                                |                                                                      |      |       |
-|                 |                                                                                |                                                                      |      |       |
-|                 |                                                                                |                                                                      |      |       |
-|                 |                                                                                |                                                                      |      |       |
-|                 |                                                                                |                                                                      |      |       |
-|                 |                                                                                |                                                                      |      |       |
-|                 |                                                                                |                                                                      |      |       |
+                                                                   |                                            
 
 ## 22M8W1 MSDS*692
 
@@ -30,23 +20,9 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 |    Student    |                GitHub                |             Presentation            | Blog | Other |
 |:-------------:|:------------------------------------:|:-----------------------------------:|:----:|:-----:|
 | Biplob Gauli  | [GitHub](https://github.com/biplobgauli/696)   |                                     |      |       |
-| Ashley Mimaki | amimaki/MSDS696-Project (github.com) | MSDS696 Practicum Project - YouTube |      |       |
+| Ashley Mimaki | [github.com](https://github.com/amimaki/MSDS696-Project) | [Presentation](https://www.youtube.com/watch?v=21nqSzYSlOU) |      |       |
 | Robert Allen  |                                      | [Presentation](https://youtu.be/mxEfkbIpXJE)        |      |       |
-|               |                                      |                                     |      |       |
-|               |                                      |                                     |      |       |
-|               |                                      |                                     |      |       |
-|               |                                      |                                     |      |       |
-|               |                                      |                                     |      |       |
-|               |                                      |                                     |      |       |
-|               |                                      |                                     |      |       |
-|               |                                      |                                     |      |       |
-|               |                                      |                                     |      |       |
-|               |                                      |                                     |      |       |
-|               |                                      |                                     |      |       |
-|               |                                      |                                     |      |       |
-|               |                                      |                                     |      |       |
-|               |                                      |                                     |      |       |
-|               |                                      |                                     |      |       |
+
 
 ## 22S8W1 MSDS*692
 |          Student          | GitHub |                 Presentation                | Blog | Other |
@@ -62,19 +38,13 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 | Christopher Green         |        | [Presentation](https://youtu.be/ijH-qF8xlrg)                |      |       |
 | John Halter               |        |                                             |      |       |
 | Roger Humecky             |        |                                             |      |       |
-|                           |        |                                             |      |       |
-|                           |        |                                             |      |       |
-|                           |        |                                             |      |       |
-|                           |        |                                             |      |       |
-|                           |        |                                             |      |       |
-|                           |        |                                             |      |       |
-|                           |        |                                             |      |       |
+
 
 ## 22F8W2 MSDS*696
 |       Student       |                                                            GitHub                                                            |                 Presentation                | Blog |                Other                |
 |:-------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------:|:----:|:-----------------------------------:|
 | Thomas Sheffer      |                                                                                                                              | [Presentation](https://youtu.be/-cghOmk0jVY)                |      |                                     |
-| John Mayers         | sunnysidedenver/regis_msds_practicum2: Analyzing and Predicting Wildfires in Colorado's US Forests (github.com)              |                                             |      |                                     |
+| John Mayers         | [GitHub](https://github.com/sunnysidedenver/regis_msds_practicum2)|                                             |      |                                     |
 | Andrew Lujan        | [GitHub](https://github.com/Drewsky33/MSDS-696--Practicum-2)                                                                           | [Presentation](https://youtu.be/To44hyfYxpA)                |      |                                     |
 | Eric Maddox         | [GitHub](https://github.com/navymaddox/DeepLearningWarships/blob/3958837e83731ec141dde2c63c37f119730c8e80/ShipClassDeepLearning.ipynb) | [Presentation](https://youtu.be/e9e04kTZ0Bc)                |      |                                     |
 | Christopher Pranger | [GitHub](https://github.com/chpr1410/MSDS696-Practicum/#readme)                                                                        | [Presentation](https://www.youtube.com/watch?v=WFbcVmjmMbs) |      | [Other](http://chpr1410.pythonanywhere.com/) |
