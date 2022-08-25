@@ -8,7 +8,8 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 | Joseph Dixon    | [GitHub](https://github.com/joseph-dixon/MSDS692)                                        | [Presentation](https://www.youtube.com/watch?v=ESoWOwMtH_k)                          |      |       |
 | Austin Kingsley | [GitHub](https://github.com/akingsley319/MLB_xBA_Prediction)                             | [Presentation](https://youtu.be/4HqFMFF2XE8)                                         |      |       |
 | Olumide Aluko   | [GitHub](https://github.com/olumidelk/Aluko_MSDS692-Data-Science-Practicum-Project-.git) | [Presentation](https://www.youtube.com/watch?v=1we8smMAKlA&t=6s&ab_channel=MakAluko) |      |       |
-| Quinn Maloney   | [GitHub](https://github.com/Quinn-Maloney/Practicum-Project)                             | [Presentation](https://youtu.be/e4X-9tLzVio)                                         |
+| Quinn Maloney   | [GitHub](https://github.com/Quinn-Maloney/Practicum-Project)                             | [Presentation](https://youtu.be/e4X-9tLzVio)|
+
 
 ## 22M8W1 MSDS*692
 
