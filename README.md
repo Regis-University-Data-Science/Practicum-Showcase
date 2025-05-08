@@ -1,6 +1,17 @@
 # Practicum-Showcase
 This is a collection of practicum projects from the [Regis University MSDS](https://www.regis.edu/academics/majors-and-programs/graduate/data-science-ms) practicum courses.
 
+## 25S8W1 MSDS 692
+
+| Student | Project Title | Code | Presentation | Report | Blog | Other |
+|:--------:|:-------------:|:----:|:------------:|:------:|:----:|:-----:|
+| ABC     | ABC Title     | [Code Repo](https://example.com/repo) | [Presentation Slides](https://example.com/slides) | [Report](https://example.com/report) | [Blog](https://example.com/blog) | [Additional Materials](https://example.com/materials) |
+
+
+
+
+
+
 ## 25F8W1 MSDS 696
 
 ## 25S8W1 MSDS 692
