@@ -5,7 +5,7 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 
 | Student | Project Title | GitHub | Presentation | Report | Blog | Other |
 |:--------:|:-------------:|:----:|:------------:|:------:|:----:|:-----:|
-| ABC     | ABC Title     | [Code Repo](https://example.com/repo) | [Presentation Slides](https://example.com/slides) | [Report](https://example.com/report) | [Blog](https://example.com/blog) | [Additional Materials](https://example.com/materials) |
+| ABC     | ABC Title     | [Code Repo](https://example.com/repo) | [Slides](https://example.com/slides) | [Report](https://example.com/report) | [Blog](https://example.com/blog) | [Additional Materials](https://example.com/materials) |
 
 
 
