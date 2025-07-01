@@ -18,6 +18,8 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 | Disasa, Etana     | Deep Learning for Retinal Disease Classification | [Code](https://github.com/etanadisasa/Deep-learning-for-retinal-disease-classification) | [Slides](https://github.com/etanadisasa/Deep-learning-for-retinal-disease-classification/blob/main/Presentation/Etana%20Disasa%20Final%20Presentation.pdf) | [Report](https://github.com/etanadisasa/Deep-learning-for-retinal-disease-classification/blob/main/Report/Etana%20Disasa%20Final%20Report.pdf) |  |  |
 | Donovan, Grace     | Framework for NLP-Driven Insights into Patient-Centered Communication in Oncology |  | [Slides](https://github.com/grdo9107/msds692/blob/main/20250629_donovan_msds692_presentation.pdf) |  | |  |
 | Abhilash Reddy     | Impact of Remote Work on Mental Health     | [GitHub](https://github.com/Areddyp/Final-Project) | [Report](https://drive.google.com/file/d/1q5vnKk3ZOD_eQL2XXveFe-mtlSeaqnV_/view?usp=sharing) |  | [Additional Materials](https://example.com/materials) |
+| Johnson, Reed     |       || |  |  |  |
+
 
 
 
