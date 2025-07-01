@@ -1,16 +1,25 @@
 # Practicum-Showcase
 This is a collection of practicum projects from the [Regis University MSDS](https://www.regis.edu/academics/majors-and-programs/graduate/data-science-ms) practicum courses.
 
+## 25S8W2 MSDS 696
+| Student | Project Title | GitHub | Presentation | Report | Blog | Other |
+|:--------:|:-------------:|:----:|:------------:|:------:|:----:|:-----:|
+| ABC     | ABC Title     | [Code](https://example.com/repo) | [Slides](https://example.com/slides) | [Report](https://example.com/report) | [Blog](https://example.com/blog) | [Additional Materials](https://example.com/materials) |
+
+
+
 ## 25S8W1 MSDS 692
 
 | Student | Project Title | GitHub | Presentation | Report | Blog | Other |
 |:--------:|:-------------:|:----:|:------------:|:------:|:----:|:-----:|
-| ABC     | ABC Title     | [Code](https://example.com/repo) | [Slides](https://example.com/slides) | [Report](https://example.com/report) | [Blog](https://example.com/blog) | [Additional Materials](https://example.com/materials) |
 | Jensen, Amber    | Predicting Scope 3 Greenhouse Gas (GHG) Emissions Using Hierarchical Linear Modeling | [Code](https://github.com/ajensen008/AmberJensen_Practicum_I/tree/main/Notebooks) | [Slides](https://github.com/ajensen008/AmberJensen_Practicum_I/blob/main/Jensen_Practicum_I_Presentation.pptx) |  |  |  |
 | Hamel, Chandon | 3D Denoising Diffusion Video Frame Interpolation (5DVFI) | [GitHub](https://github.com/Feebami/5DVFI) | [WebPage](https://huggingface.co/spaces/Feebami/DiffusionVFI) | [Report](https://drive.google.com/file/d/1pcxkm-aqTR0GQc6mJWLvHV8SsWo3JfNO/view?usp=drive_link) | | |
 | Scardino, Matthew     | Wildlife Image Processing & Semantic Search System | [Code](https://github.com/readcommitted/wildlife.git) | [Slides](https://github.com/readcommitted/wildlife/blob/main/docs/MScardino_Wildlife%20Presentation.pdf) | [Report](https://github.com/readcommitted/wildlife/blob/main/docs/MScardino_Data_Science_Practicum_Final.pdf) | [Blog](https://readcommitted.com) |  |
 | Disasa, Etana     | Deep Learning for Retinal Disease Classification | [Code](https://github.com/etanadisasa/Deep-learning-for-retinal-disease-classification) | [Slides](https://github.com/etanadisasa/Deep-learning-for-retinal-disease-classification/blob/main/Presentation/Etana%20Disasa%20Final%20Presentation.pdf) | [Report](https://github.com/etanadisasa/Deep-learning-for-retinal-disease-classification/blob/main/Report/Etana%20Disasa%20Final%20Report.pdf) |  |  |
-|  Abhilash Reddy     | Impact of Remote Work on Mental Health     | [GitHub](https://github.com/Areddyp/Final-Project) | [Report](https://drive.google.com/file/d/1q5vnKk3ZOD_eQL2XXveFe-mtlSeaqnV_/view?usp=sharing) |  | [Additional Materials](https://example.com/materials)|
+| Donovan, Grace     | Framework for NLP-Driven Insights into Patient-Centered Communication in Oncology |  | [Slides](https://github.com/grdo9107/msds692/blob/main/20250629_donovan_msds692_presentation.pdf) |  | |  |
+| Abhilash Reddy     | Impact of Remote Work on Mental Health     | [GitHub](https://github.com/Areddyp/Final-Project) | [Report](https://drive.google.com/file/d/1q5vnKk3ZOD_eQL2XXveFe-mtlSeaqnV_/view?usp=sharing) |  |  |
+| Johnson, Reed     |       || |  |  |  |
+
 
 
 
