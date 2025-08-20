@@ -5,7 +5,7 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 | Student | Project Title | GitHub | Presentation | Report | Blog | Other |
 |:--------:|:-------------:|:----:|:------------:|:------:|:----:|:-----:|
 | ABC     | ABC Title     | [GitHub](https://example.com/repo) | [Slides](https://example.com/slides) | [Report](https://example.com/report) | [Blog](https://example.com/blog) | [Additional Materials](https://example.com/materials) |
-
+| Scardino, Matthew     | Wildlife Image Processing & Semantic Search System V2 | [GitHub](https://github.com/readcommitted/wildlife2_client.git) [GitHub](https://github.com/readcommitted/wildlife-api.git) | [Slides] | [Report] | [Blog] | [Demo](https://demo.wildlife.readcommitted.com) [MCP](https://api.wildlife.readcommitted.com)
 
 
 ## 25S8W1 MSDS 692
