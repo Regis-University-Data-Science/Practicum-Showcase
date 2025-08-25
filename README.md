@@ -19,6 +19,7 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 | Donovan, Grace     | Building Analysis-Ready Data with a Multi-Stage Pipeline     |  | [Slides](https://github.com/grdo9107/msds696/blob/main/msds_696_donovan.pdf) |  |  |  |
 | Hamel, Chandon     | An Exploration of Multi-Task Soft Actor-Critic Reinforcement Learning for Vision-Based Object Manipulation with Simulated Table-Mounted Robot Arms in ManiSkill     | [GitHub](https://github.com/Feebami/VisionRL-MultiTaskSAC) | [Slides](https://docs.google.com/presentation/d/1xHAgpJR8MNN_MVFx-AA3ww2x0_uOgDh-bHmS2uyCom8/edit?usp=sharing) | [Report](https://drive.google.com/file/d/1yzFC51siN07B1sadW90O7HJqLh2zztyt/view?usp=sharing) |  |
 | Abhilash Reddy|GenAI-Guided Article Summarization with Privacy Preservation| [GitHub](https://github.com/Areddyp/Practium_2_final) | [Slides](https://docs.google.com/presentation/d/1RAaeFoPmBoSSL7f27RXqT8_HT4AK1v8P/edit?usp=drive_link&ouid=108440141498588652258&rtpof=true&sd=true) |[Report](https://drive.google.com/file/d/1yo_USmlS0fsPNfmS5YT9YkNNrLABrldT/view?usp=drive_link) |
+| Jonish Bishwakarma|RAG Medical Chatbot| [GitHub](https://github.com/jonishk/Medibot) | [Slides](https://github.com/jonishk/Medibot/blob/main/Medical_Chatbot_Presentation.pptx) |[Presentation](https://youtu.be/UP74PRR_-OM) |
 
 ## 25S8W1 MSDS 692
 
